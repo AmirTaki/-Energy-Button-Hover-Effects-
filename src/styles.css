@@ -41,6 +41,13 @@ body {
 }
 h1{
     font-family: sans-serif;
+    margin: 40px 0 0 ;
+    padding: 0;
+    text-align: center;
+    color: #fff;
+    font-size: 40px;
+    line-height: 60px;
+    text-shadow: 0 15px 5px rgba(0, 0, 0, .5);
 }
 h1 span{
         font-family: "Dancing Script", cursive;
