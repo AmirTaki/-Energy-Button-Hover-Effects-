@@ -4,7 +4,6 @@ body {
     padding: 0;
     background: #9c27b0;
     overflow: hidden;
-    font-family: "Dancing Script", cursive;
 }
 
 .circle {
@@ -39,4 +38,10 @@ body {
     100%{
         transform:  scale(1.1) rotate(360deg);
     }
+}
+h1{
+    font-family: sans-serif;
+}
+h1 span{
+        font-family: "Dancing Script", cursive;
 }
