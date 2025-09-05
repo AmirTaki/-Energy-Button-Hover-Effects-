@@ -30,4 +30,5 @@ a{
 
 a:hover {
       transform: translate(-50%, -50%) scale(.9);
+      animation:  pulse 1s linear infinite;
 }
