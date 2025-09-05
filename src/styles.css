@@ -15,4 +15,6 @@ a{
     height: 60px;
     text-align: center;
     line-height: 60px;
+    font-family: sans-serif;
+    text-transform: uppercase;
 }
