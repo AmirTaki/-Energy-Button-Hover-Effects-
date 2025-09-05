@@ -29,6 +29,16 @@ a{
 }
 
 a:hover {
-      transform: translate(-50%, -50%) scale(.9);
-      animation:  pulse 1s linear infinite;
+    transform: translate(-50%, -50%) scale(.9);
+    animation:  pulse 1s linear infinite;
+}
+
+
+@keyframes pulse {
+    0%{
+        box-shadow: 0 0 15px rgba(80, 241, 0, 1), 
+                    0 0 25px rgba(80, 241, 0, 1) ;    }
+    100%{
+
+    }
 }
