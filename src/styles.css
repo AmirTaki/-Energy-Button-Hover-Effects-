@@ -27,3 +27,7 @@ a{
                 0 0 25px rgba(80, 241, 0, 1) ;
     transition:.5s;
 }
+
+a:hover {
+      transform: translate(-50%, -50%) scale(.9);
+}
